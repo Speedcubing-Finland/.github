@@ -56,11 +56,18 @@ Speedcubing_Finland/
 │
 └── frontend/          # React application
     ├── src/
-    │   ├── components/       # Reusable UI components
-    │   ├── pages/            # Route pages
+    │   ├── components/
+    │   │   └── shared/       # Shared components (Navbar, Footer, Button, etc.)
+    │   ├── pages/            # Feature-based page organization
+    │   │   ├── Home/         # Home page + InfoSection component
+    │   │   ├── Competitions/ # Competitions + CompetitionTable, EventList
+    │   │   ├── Join/         # Join page + JoinForm component
+    │   │   ├── Admin/        # Admin + LoginForm, MemberCsvChecker
+    │   │   ├── Info/         # Info page + ParagraphBox component
+    │   │   └── Contact/      # Contact page
     │   ├── utilities/        # Helper functions & API client
     │   ├── data/             # Static data (WCA events)
-    │   └── assets/           # Images and static files
+    │   └── assets/           # Images and static files (WebP optimized)
     ├── .env                  # Environment variables (NOT in git)
     ├── .env.example          # Template for environment setup
     └── package.json
