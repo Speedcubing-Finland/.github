@@ -382,7 +382,6 @@ This project is private and belongs to Speedcubing Finland organization.
 
 - [ ] Add refresh token functionality
 - [ ] Implement password reset flow
-- [ ] Add email notifications for approved members
 - [ ] Improve error handling and user feedback
 - [ ] Add comprehensive test coverage
 - [ ] Implement rate limiting
