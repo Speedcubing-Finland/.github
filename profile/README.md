@@ -2,23 +2,22 @@
 
 Official website and member management system for Speedcubing Finland organization.
 
-## � Screenshots
+## Screenshots
 
-### Home Page
-![Home Page](../images/Frontpage_speedcubingfinland.png)
-
-### Competitions
-![Competitions](../images/Competitions_Speedcubing_Finland.png)
-
-### Info Page
-![Info Page](../images/Infopage_Speedcubing_Finland.png)
-
-### Member Registration
-![Member Registration](../images/Register_Speedcubing_Finland.png)
+<table>
+  <tr>
+    <td align="center"><strong>Home Page</strong><br><img src="../images/Frontpage_speedcubingfinland.png" width="400"/></td>
+    <td align="center"><strong>Competitions</strong><br><img src="../images/Competitions_Speedcubing_Finland.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Info Page</strong><br><img src="../images/Infopage_Speedcubing_Finland.png" width="400"/></td>
+    <td align="center"><strong>Member Registration</strong><br><img src="../images/Register_Speedcubing_Finland.png" width="400"/></td>
+  </tr>
+</table>
 
 ---
 
-## �🚀 Project Overview
+## 🚀 Project Overview
 
 This full-stack application manages member registrations, displays upcoming WCA competitions in Finland, and provides an admin panel for managing member applications.
 
